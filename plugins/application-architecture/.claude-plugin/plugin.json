@@ -1,0 +1,12 @@
+{
+  "name": "application-architecture",
+  "version": "0.1.0",
+  "description": "Skills para projetar e revisar arquitetura de aplicações e código: estilos arquiteturais (hexagonal, clean, event-driven/CQRS), design patterns (GoF) e princípios de design (SOLID, KISS, Tell Don't Ask, etc.).",
+  "author": {
+    "name": "Rodrigo Bertini",
+    "url": "https://github.com/rodx64"
+  },
+  "repository": "https://github.com/rodx64/mia",
+  "license": "MIT",
+  "keywords": ["architecture", "hexagonal", "clean-architecture", "ddd", "cqrs", "event-driven", "design-patterns", "solid", "design-principles", "code-review"]
+}

@@ -12,6 +12,12 @@
       "description": "Skills e comandos para revisar arquitetura e design de software sob a ótica de segurança, começando pelo OWASP Top 10 (2021).",
       "source": "./plugins/security-architecture",
       "category": "security"
+    },
+    {
+      "name": "application-architecture",
+      "description": "Skills e comandos para projetar e revisar arquitetura de aplicações (hexagonal, clean, event-driven/CQRS), design patterns (GoF) e princípios de design (SOLID, KISS, Tell Don't Ask, etc.).",
+      "source": "./plugins/application-architecture",
+      "category": "architecture"
     }
   ]
 }
