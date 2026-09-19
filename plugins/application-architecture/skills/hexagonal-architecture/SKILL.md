@@ -31,7 +31,7 @@ Isolar o núcleo de domínio/aplicação de detalhes de infraestrutura (banco, f
    |---|---|
    | O que é port/adapter, entrada vs. saída, vazamento de infraestrutura | `references/ports-adapters.md` |
    | Regra de dependência, inversão de dependência, como aparece em imports | `references/dependency-rule.md` |
-   | Aggregates, value objects, domain events, repositories dentro do hexágono | `references/ddd-tatico.md` |
+   | Aggregates, value objects, domain events, repositories dentro do hexágono (resumo — processo completo na skill `domain-driven-design`) | `references/ddd-tatico.md` |
 
 3. **Para revisão**: classifique cada achado com componente afetado, o que foi violado (vazamento de infraestrutura, direção de dependência errada, lógica de negócio no lugar errado) e uma correção concreta (extrair interface, mover regra, criar adapter).
 

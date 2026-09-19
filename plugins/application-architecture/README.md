@@ -6,9 +6,10 @@ Plugin de Claude Code com skills para **projetar e revisar** a arquitetura de ap
 
 Skills (auto-invocadas conforme o contexto da conversa, ou forçadas via `/architecture-review`):
 
-- **`hexagonal-architecture`** — ports & adapters, regra de dependência, DDD tático (aggregates, value objects, domain events, repositories).
+- **`hexagonal-architecture`** — ports & adapters, regra de dependência, resumo de DDD tático (ver `domain-driven-design` para o processo completo).
 - **`clean-architecture`** — camadas concêntricas, regra de dependência, comparação com hexagonal.
 - **`event-driven-cqrs`** — arquitetura orientada a eventos e separação command/query.
+- **`domain-driven-design`** — modelagem da camada de domínio: entities, value objects, aggregates, domain services, domain events, repositories, factories, specifications, linguagem ubíqua, e uma introdução leve a bounded contexts. Exemplos em Kotlin.
 - **`creational-patterns`** — Factory Method, Abstract Factory, Builder, Singleton, Prototype.
 - **`structural-patterns`** — Adapter, Decorator, Facade, Composite, Proxy, Bridge, Flyweight.
 - **`behavioral-patterns`** — Strategy, Observer, Command, Template Method, State, Chain of Responsibility, Mediator, Visitor, Iterator, Memento, Interpreter.
