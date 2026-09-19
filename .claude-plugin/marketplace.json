@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mia",
+  "description": "Skills e plugins pessoais do Rodrigo para Claude Code.",
+  "owner": {
+    "name": "Rodrigo Bertini",
+    "url": "https://github.com/rodx64"
+  },
+  "plugins": [
+    {
+      "name": "security-architecture",
+      "description": "Skills e comandos para revisar arquitetura e design de software sob a ótica de segurança, começando pelo OWASP Top 10 (2021).",
+      "source": "./plugins/security-architecture",
+      "category": "security"
+    }
+  ]
+}

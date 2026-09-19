@@ -1,0 +1,12 @@
+{
+  "name": "security-architecture",
+  "version": "0.1.0",
+  "description": "Skills para revisar arquitetura, design e código sob a ótica de segurança. Primeira skill: OWASP Top 10 (2021).",
+  "author": {
+    "name": "Rodrigo Bertini",
+    "url": "https://github.com/rodx64"
+  },
+  "repository": "https://github.com/rodx64/mia",
+  "license": "MIT",
+  "keywords": ["security", "owasp", "architecture", "threat-modeling", "code-review", "design-review"]
+}
