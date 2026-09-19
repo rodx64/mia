@@ -1,7 +1,7 @@
 ---
 name: domain-driven-design
-description: Use esta skill ao modelar, revisar ou estruturar a camada de domínio de uma aplicação com Domain-Driven Design — gatilhos como "como modelo isso como aggregate", "essa entidade devia ser um value object", "esse serviço devia ser um domain service ou fica na entidade", "meu modelo de domínio está anêmico", "como desenho o repository desse aggregate", "isso devia disparar um domain event", "essa regra de negócio merece uma specification", "onde fica a fronteira entre esses dois módulos de domínio", ou qualquer menção a "DDD", "domain model", "aggregate root", "linguagem ubíqua", "bounded context". Cobre padrões táticos (entities, value objects, aggregates, domain services, domain events, repositories, factories, specifications, linguagem ubíqua) e uma introdução leve a bounded contexts. Foco na camada de domínio em si, não na estrutura geral da aplicação — para isolamento domínio/infraestrutura, ver `hexagonal-architecture` ou `clean-architecture`.
-version: 0.1.0
+description: Modelagem da camada de domínio com Domain-Driven Design tático — entities vs. value objects, aggregates e invariantes, domain services, domain events, repositories, factories, specifications e linguagem ubíqua. Use ao modelar ou revisar o domínio, ou quando mencionarem DDD, aggregate root ou bounded context. Para isolamento domínio/infraestrutura, ver `hexagonal-architecture` ou `clean-architecture`.
+version: 0.2.0
 ---
 
 # Domain-Driven Design (tático + estratégico leve)
